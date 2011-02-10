@@ -1,0 +1,5 @@
+{ "name": "bitcoder"
+, "main": "./bitcoder"
+, "version": "0.0.1"
+, "scripts": { "install": "node-waf configure build" }
+}
